@@ -69,12 +69,21 @@ I am a passionate Full-Stack Developer specializing in building robust web appli
 ---
 
 ### 📊 Proficiency Levels
+
 - **Frontend Development** (React/JS) 
-  ![90%](https://progress-bar.dev/90/)
+<p align="left">
+  <img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=400&color=0e75b6" alt="Frontend 90%">
+</p>
+
 - **Backend Development** (.NET Core)
-  ![85%](https://progress-bar.dev/85/)
+<p align="left">
+  <img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=400&color=512BD4" alt="Backend 85%">
+</p>
+
 - **Database Management** (SQL/MongoDB)
-  ![80%](https://progress-bar.dev/80/)
+<p align="left">
+  <img src="https://progress-bar.dev/80/?scale=100&title=Progress&width=400&color=4ea94b" alt="Database 80%">
+</p>
 
 ---
 
