@@ -7,6 +7,11 @@
 
 I am a passionate Full-Stack Developer specializing in building robust web applications using the .NET ecosystem and modern frontend technologies. I have experience in handling end-to-end development, from database design to secure payment integrations.
 
+- 🔭 I’m currently working on **SuperShop E-commerce Project**
+- 🌱 I’m currently learning **TypeScript, Redux, and Advanced SQL**
+- 💬 Ask me about **ASP.NET Core, React, and Database Management**
+- 📫 How to reach me: **amirhossainsohan0@gmail.com**
+
 ---
 
 ### 🛠 Technical Skills
@@ -79,4 +84,5 @@ A complete E-commerce solution built with ASP.NET Core MVC.
 - **Secure Payment:** Integration with custom payment processing logic.
 - **Order Flow:** Automated order handling and real-time feedback.
 
-📫 **How to reach me:** [amirhossainsohan0@gmail.com](mailto:amirhossainsohan0@gmail.com)
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohanwebdevctg&show_icons=true&theme=radical)
